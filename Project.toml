@@ -1,0 +1,13 @@
+name = "DiffusionBayes"
+uuid = "914be94b-b42d-4903-9ee7-748ef2b9c9c0"
+authors = ["Marcin Mider"]
+version = "0.1.0"
+
+[compat]
+julia = "1.3"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
